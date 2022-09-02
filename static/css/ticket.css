@@ -1,0 +1,57 @@
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background: url("../images/train.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input[type=submit] 
+{
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+button {
+    background-color: green; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+b {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(6, 110, 255);
+    font-size: 5vw;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+td {
+    background-color: green;
+    color: white;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
